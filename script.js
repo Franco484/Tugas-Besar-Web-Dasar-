@@ -1,3 +1,4 @@
+//2072049 - Franco
 const budayaData = {
   sejarah: {
     title: "Sejarah Kota Ambon",
